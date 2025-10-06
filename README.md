@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sanjay Harish</h1>
+<h3 align="center">A passionate DevOps & Cloud Engineer from India</h3>
 
-<!--
-**sanjayhar/sanjayhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **AWS | Docker | Kubernetes | Terraform**
+- 💬 Ask me about **DevOps, Cloud, CI/CD, or Linux**
+- 📫 How to reach me: **sanjayharish@example.com**
+- ⚡ Fun fact: I love automating everything!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,terraform,python,nodejs,react" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjayhar&show_icons=true&theme=tokyonight" alt="Sanjay's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayhar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+<a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" /></a>
+</p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanjayhar&label=Profile%20views&color=0e75b6&style=flat)
