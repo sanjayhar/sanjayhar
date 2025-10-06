@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sanjaykumar S</h1>
+<h1 align="center">Hello👋, I'm Sanjaykumar S</h1>
 <h3 align="center">A passionate DevOps & Cloud Engineer from India</h3>
 
-- 🌱 I’m currently learning **AWS | Docker | Kubernetes | Terraform**
-- 💬 Ask me about **DevOps, Cloud, CI/CD, or Linux**
-- 📫 How to reach me: **sanjayharish0402@gmail.com**
-- ⚡ Fun fact: I love automating everything!
+🌱 I’m currently learning **AWS, Docker, Kubernetes,Terraform**
+
+🤝 I’m looking for help with **AWS,DevOps,Linux,Networking**
+
+💬 Ask me about **AWS,DevOps,Linux,Networking**
+
+📫 How to reach me: **sanjayharish0402@gmail.com**
+
+⚡ Fun fact: I love automating everything!
 
 ---
 
