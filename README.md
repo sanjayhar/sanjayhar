@@ -9,8 +9,6 @@
 
 📫 How to reach me: **sanjayharish0402@gmail.com**
 
-⚡ Fun fact: I love automating everything!
-
 ---
 
 ### 🧰 Languages and Tools:
